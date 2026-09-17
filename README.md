@@ -3,4 +3,11 @@ Created a VLAN between the IT and HR departments. In between both Layer 2 switch
 
 
 # Lab Topology
-<img width="1031" height="376" alt="Screenshot 2026-09-17 121417" src="https://github.com/user-attachments/assets/18115cc9-892a-4c12-aa42-4012d833bedf" />
+<img width="1000" height="392" alt="Screenshot 2026-09-17 140116" src="https://github.com/user-attachments/assets/045cc259-594b-440f-a1e6-4bae569342d0" />
+
+
+
+- Switch 0 and Switch 1 are Layer 2 Access Switches
+- Multilayer Switch 0 is a Layer 3 Switch
+- G0/1 Port on Switch 0 connects to G0/1 Port on SwitchL3
+- G0/2 Port on Switch 1 connects to G0/2 Port on SwitchL3
