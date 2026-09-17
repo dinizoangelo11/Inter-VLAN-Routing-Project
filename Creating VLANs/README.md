@@ -1,16 +1,18 @@
+# Creating VLANs for Project
+
 Note: I wanted to create two separate VLANs for this project just to keep it simple for understanding, HR and IT. Each VLAN (HR and IT) would have three PCs in their respective VLAN, locally connecting to each other but needs more configuration when it travels from one VLAN to the next.
 
 - HR VLAN is under the 20.20.20.0 IP scheme. 
 
 - IT VLAN is under the 20.20.30.0 IP scheme.
 
-
+# HR VLAN
 HR VLAN IPs Include:
 20.20.20.11/24
 20.20.20.12/24
 20.20.20.13/24
 
-
+# IT VLAN
 IT VLAN IPs Include:
 20.20.30.11/24
 20.20.30.12/24
