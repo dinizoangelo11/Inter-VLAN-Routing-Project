@@ -11,8 +11,8 @@
 <img width="371" height="121" alt="Screenshot 2026-09-17 143359" src="https://github.com/user-attachments/assets/8e47594d-23a3-4e77-8602-d038a7ab75bd" />
 
 - Go in each interface one by one
-- enable each interface as an access port (access port carries traffic from the same VLAN over a switch)
-- assign that specific port for the VLAN it will be in (int f0/1 will be in VLAN 3 because that will be an IT computer)
+- Enable each interface as an access port (access port carries traffic from the same VLAN over a switch)
+- Assign that specific port for the VLAN it will be in (int f0/1 will be in VLAN 3 because that will be an IT computer)
   
 ### Enabling Trunk Port to SwitchL3
 <img width="668" height="131" alt="Screenshot 2026-09-17 143551" src="https://github.com/user-attachments/assets/a2a23fc0-004b-40f5-ab41-bd08d2ee7fbf" />
