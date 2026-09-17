@@ -11,3 +11,9 @@ Created a VLAN between the IT and HR departments. In between both Layer 2 switch
 - Multilayer Switch 0 is a Layer 3 Switch
 - G0/1 Port on Switch 0 connects to G0/1 Port on SwitchL3
 - G0/2 Port on Switch 1 connects to G0/2 Port on SwitchL3
+
+
+
+# Please read the other branches
+
+The other branches will give you more information on the creation of the VLANS, cisco command line configs, and the connectivity testing post set up.
