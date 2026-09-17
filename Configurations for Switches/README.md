@@ -16,6 +16,7 @@
   
 ### Enabling Trunk Port to SwitchL3
 <img width="668" height="131" alt="Screenshot 2026-09-17 143551" src="https://github.com/user-attachments/assets/a2a23fc0-004b-40f5-ab41-bd08d2ee7fbf" />
+
 - Go into the gigabit interface that is connected to SwitchL3
 - Enable port as a trunk port (trunk port carries traffic to different VLANs)
 - I created a description to remind me that it connects to the Layer 3 Switch
