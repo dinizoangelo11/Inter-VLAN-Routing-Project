@@ -8,20 +8,20 @@ Note: I wanted to create two separate VLANs for this project just to keep it sim
 
 # HR VLAN
 HR VLAN IPs Include:
-20.20.20.11/24
-20.20.20.12/24
-20.20.20.13/24
+- 20.20.20.11/24
+- 20.20.20.12/24
+- 20.20.20.13/24
 
 # IT VLAN
 IT VLAN IPs Include:
-20.20.30.11/24
-20.20.30.12/24
-20.20.30.13/24
+- 20.20.30.11/24
+- 20.20.30.12/24
+- 20.20.30.13/24
 
 
 The Default Gateway for HR VLAN:
-20.20.20.1/24
+- 20.20.20.1/24
 
 
 The Default Gateway for IT VLAN:
-20.20.30.1/24
+- 20.20.30.1/24
