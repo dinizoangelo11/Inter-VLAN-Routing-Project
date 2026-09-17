@@ -19,9 +19,9 @@ IT VLAN IPs Include:
 - 20.20.30.13/24
 
 # Default Gateways (SVIs on SwitchL3)
-The Default Gateway for HR VLAN:
+HR VLAN:
 - 20.20.20.1/24
 
 
-The Default Gateway for IT VLAN:
+IT VLAN:
 - 20.20.30.1/24
