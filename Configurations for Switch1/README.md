@@ -25,3 +25,4 @@
 - Go into the gigabit interface that is connected to SwitchL3 (g0/2)
 - Enable port as trunk port (trunk port carries traffic to different VLANs)
 - I created a description to remind me that it connects to the Layer 3 Switch
+- It is not in the provided picture but I also put 'no shut' on this port so it never shuts down
