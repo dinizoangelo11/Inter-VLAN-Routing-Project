@@ -16,4 +16,4 @@ Created a VLAN between the IT and HR departments. In between both Layer 2 switch
 
 # Please read the other branches
 
-The other branches will give you more information on the creation of the VLANS, cisco command line configs, and the connectivity testing post set up. Start from the configurations for all Switches and PCs, then creating VLANS. and finally testing the connectivity.
+The other branches will give you more information on the creation of the VLANS, cisco command line configs, and the connectivity testing post set up. Start from the configurations for all Switches and PCs>>then creating VLANS>>and finally testing the connectivity.
