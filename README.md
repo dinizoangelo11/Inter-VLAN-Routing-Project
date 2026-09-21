@@ -1,4 +1,4 @@
-# Layer-3-Switch-VLAN-Project
+# Inter-VLAN-Routing-Project
 Created a VLAN between the IT and HR departments. In between both Layer 2 switches is a Layer 3 switch to route traffic from one VLAN to the other. In this lab I am configuring access ports, trunk ports, creating two separate VLANS with two different IP subnets, and testing my connectivity once configured.
 
 
@@ -7,8 +7,8 @@ Created a VLAN between the IT and HR departments. In between both Layer 2 switch
 
 
 
-- Switch 0 and Switch 1 are Layer 2 Access Switches
-- Multilayer Switch 0 is a Layer 3 Switch
+- Switch0 and Switch1 are Layer 2 Access Switches
+- SwitchL3 is a Layer 3 Switch
 - G0/1 Port on Switch 0 connects to G0/1 Port on SwitchL3
 - G0/2 Port on Switch 1 connects to G0/2 Port on SwitchL3
 
